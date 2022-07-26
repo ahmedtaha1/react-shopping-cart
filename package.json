@@ -1,4 +1,5 @@
 {
+  "homepage": "https://myusername.github.io/my-app",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,7 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^4.0.0",
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
     "react": "^17.0.2",
@@ -22,6 +24,8 @@
   },
   "scripts": {
     "sass": "gulp sass",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
