@@ -1,0 +1,46 @@
+.filter-options {
+  margin-top: 15px;
+  .select-size,
+  .select-price {
+    display: flex;
+    justify-content: center;
+    .item {
+      height: 27px;
+      border-radius: 2px;
+      text-align: center;
+      color: #fff;
+      background: #21aaff;
+      border: 0;
+      font-weight: 400;
+      padding: 0 16px;
+      font-size: 18px;
+      cursor: pointer;
+      transition: 0.3s;
+      margin: 6px;
+      &.active {
+        background-color: #fff;
+        color: #21aaff;
+      }
+      &:hover {
+        background-color: #fff;
+        color: #21aaff;
+      }
+    }
+  }
+}
+@media (max-width: 767px) {
+  .filter-options {
+    margin-top: 10px;
+    .select-size,
+    .select-price {
+      flex-wrap: wrap;
+      .item {
+        margin: 0;
+        padding: 0 14px;
+        width: 30%;
+        height: 20px;
+        font-size: 14px;
+      }
+    }
+  }
+}

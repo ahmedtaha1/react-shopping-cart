@@ -1,0 +1,15 @@
+footer {
+  color: #fff;
+  background: #21afff url(./footerimg.png) bottom;
+  text-align: center;
+  font-size: 20px;
+  grid-area: footer;
+  padding: 30px;
+  p {
+    margin-bottom: 10px;
+  }
+  .heart {
+    font-size: 25px;
+    vertical-align: middle;
+  }
+}

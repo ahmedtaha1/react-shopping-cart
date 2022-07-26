@@ -1,0 +1,110 @@
+[
+  {
+    "id": "id1",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p2.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 30,
+    "size": ["S", "M", "XXL"],
+    "color": "gray"
+  },
+  {
+    "id": "id2",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p1.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 40,
+    "size": ["XL", "L", "XXL"],
+    "color": "brown"
+  },
+  {
+    "id": "id3",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p3.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 35,
+    "size": ["S", "M", "L", "Xs"],
+    "color": "black"
+  },
+  {
+    "id": "id4",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p4.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 45,
+    "size": ["S", "M", "Xs", "XL"],
+    "color": "brown"
+  },
+  {
+    "id": "id5",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p5.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 50,
+    "size": ["S", "M", "Xs"],
+    "color": "white"
+  },
+  {
+    "id": "id6",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p6.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 55,
+    "size": ["S", "M"],
+    "color": "yellow"
+  },
+  {
+    "id": "id7",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p7.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 60,
+    "size": ["S", "M", "L"],
+    "color": "white"
+  },
+  {
+    "id": "id8",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p8.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 65,
+    "size": ["S", "M", "L"],
+    "color": "green"
+  },
+  {
+    "id": "id9",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p9.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 90,
+    "size": ["S", "M", "L"],
+    "color": "black"
+  },
+  {
+    "id": "id10",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p10.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 95,
+    "size": ["S", "M"],
+    "color": "white"
+  },
+  {
+    "id": "id11",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p11.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 70,
+    "size": ["S", "M", "L"],
+    "color": "white"
+  },
+  {
+    "id": "id12",
+    "title": "Beach OutFit",
+    "imageUrl": "./images/p12.webp",
+    "desc": "Beach Vacataion OutFit",
+    "price": 77,
+    "size": ["S", "M", "L", "XL"],
+    "color": "green"
+  }
+]
